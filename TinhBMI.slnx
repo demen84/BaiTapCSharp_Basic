@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="../ChuyenDoiNhietDo/ChuyenDoiNhietDo.csproj" />
+  <Project Path="../ConsoleApp1/ToanTu3Ngoi.csproj" />
+  <Project Path="../SwitchCase/SwitchCase.csproj" />
+  <Project Path="../TimSoChiaHetCho3/TimSoChiaHetCho3.csproj" />
+  <Project Path="../TinhTongSoChan/TinhTongSoChan.csproj" />
+  <Project Path="../ToanHocMath/ToanHocMath.csproj" Id="2920ac15-80ce-407b-aaf9-ecc87f035420" />
+  <Project Path="../TongSoLe/TongSoLe.csproj" />
+  <Project Path="../VongLap/VongLap.csproj" />
+  <Project Path="../VongLapFor/VongLapFor.csproj" />
+  <Project Path="TinhBMI.csproj" />
+</Solution>
