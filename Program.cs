@@ -40,6 +40,8 @@ else
     }
 }
 
+// Thêm gì nữa ở đây?
+
 
 //Giữ màn hình được mở
 Console.ReadKey();
